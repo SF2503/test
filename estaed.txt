@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 2
-=======
-12
->>>>>>> test2
 asdasd
-assdasd
+assdasdasda
